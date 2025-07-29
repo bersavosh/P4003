@@ -6,4 +6,7 @@ dependencies:
   - numpy
   - matplotlib
   - astropy
-  - emcee
+  - pymc
+  - seaborn
+  - arviz
+  - lmfit
