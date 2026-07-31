@@ -1,7 +1,9 @@
 # Project
-Assignments/Practice1_answers.ipynb
-Assignments/Practice2_answers.ipynb
+!Assignments/Practice1_answers.ipynb
+!Assignments/Practice2_answers.ipynb
 !Tutorials/Tutorial1_answers.ipynb
+Tutorials/Tutorial2_answers.ipynb
+Tutorials/Tutorial2_answers_ppc_check.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
