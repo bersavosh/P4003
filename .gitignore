@@ -2,12 +2,13 @@
 !Assignments/Practice1_answers.ipynb
 !Assignments/Practice2_answers.ipynb
 Assignments/Assignment_answers_w_data.ipynb
-Assignments/Assignment_data.csv
+Assignments/Assignment_answers.ipynb
+!Assignments/Assignment_data.csv
 Assignments/q1_data.csv
 !Tutorials/Tutorial1_answers.ipynb
 !Tutorials/Tutorial2_answers.ipynb
 Tutorials/Tutorial2_answers_ppc_check.ipynb
-Tutorials/Tutorial3_answers.ipynb
+Tutorials/Tutorial3_answers_w_data.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
